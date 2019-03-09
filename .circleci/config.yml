@@ -6,4 +6,4 @@ orbs:
 workflows:
 	"Hello Workflow":
 		jobs:
-			- hello/hello-build
+		- hello/hello-build
